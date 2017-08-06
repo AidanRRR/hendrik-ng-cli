@@ -1,3 +1,13 @@
+# Opdracht
+- Maak  gebruik van een publieke API (bvb swapi.com, spotify, antwerpen open  data) om data op te halen via 1 of meerdere services die je zelf  voorziet
+- Maak  aanvullende functionaliteit om de data van deze API te kunnen aanpassen  en op te slaan, zodat je voor jezelf een leuke meerwaarde creëert
+- Maak gebruik van type classes om ervoor te zorgen dat je data correct gebruikt wordt (bvb hero.ts, task.ts uit de oefeningen)
+- Maak  minstens 1 formulier waarmee je data kan toevoegen, aanpassen en  opslaan. Maak hiervoor gebruik van de in-memory-api of een simpele eigen  back-end (publiek beschikbaar).
+- Voorzie het formulier van validatie zodat fouten correct worden opgevangen met foutboodschappen
+- Maak gebruik van routes om de data gestructureerd en logisch weer te geven
+- Maak gebruik van de angular CLI
+
+
 # HendrikNgCli
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.7.
